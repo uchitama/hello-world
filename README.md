@@ -10,3 +10,8 @@ just another repository
 private String aaa = null;
 
 ```
+
+
+**リンク**
+
+[google](http://google.co.jp)
