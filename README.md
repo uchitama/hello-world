@@ -8,5 +8,6 @@ just another repository
 
 ```Java
 private String aaa = null;
+aaa = "test";
 
 ```
